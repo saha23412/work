@@ -1,0 +1,20 @@
+#Users-list-title{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.Users-list{
+    border-radius: 10px;
+    width: 400px;
+    border: 2px solid  #82bffc;;
+    padding:20px;
+}
+.User-warning{
+    text-align: center;
+    padding-top:20px ;
+ 
+}
+.Users-search{
+    width: 100%;
+    margin-bottom: 10px;
+}

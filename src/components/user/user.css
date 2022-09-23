@@ -1,0 +1,13 @@
+.User{
+    margin-bottom:10px;
+}
+.User-info{
+    text-align: center;
+   
+}
+#User-addButton{
+    width: 100%;
+   font-size: 18px;
+   font-weight: 500;
+   background-color: #78bafb;
+}

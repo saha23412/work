@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Mikhail",
+            "age": 19,
+            "login": "Mikhail1999@gmail.ru",
+            "password": "12345sash"
+        },
+        {
+            "id": 2,
+            "name": "Sasha",
+            "age": 26,
+            "login": "karma@gmail.ru",
+            "password": "12345karm"
+        },
+        {
+            "id": 3,
+            "name": "Egor",
+            "age": 27,
+            "login": "egor@gmail.ru",
+            "password": "12345egor"
+        },
+        {
+            "id": 4,
+            "name": "Artem",
+            "age": 29,
+            "login": "artem@gmail.ru",
+            "password": "123456"
+        },
+        {
+            "id": 5,
+            "name": "Gegorma",
+            "age": 30,
+            "login": "gegorm@gmail.ru",
+            "password": "123456"
+        },
+        {
+            "id": 6,
+            "name": "Vitia",
+            "age": 32,
+            "login": "vitia@gmail.ru",
+            "password": "123456"
+        }
+    ]
+}

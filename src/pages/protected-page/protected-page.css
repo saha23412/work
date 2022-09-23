@@ -1,0 +1,16 @@
+.Protected-list{
+    width: 100vw;
+    height:100vh;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+.Protected-list-wrapper{
+  display: flex;
+  width: 60vw;
+  justify-content: space-between;
+  
+}
